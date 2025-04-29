@@ -6,9 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": " Cristian Araya",
   "license": "ISC",
-  "description": "",
+  "description": " Proyecto de Desarrollo Aplicativos 2025",
   "dependencies": {
     "express": "^5.1.0"
   }
